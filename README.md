@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: USTH ICT1
-* Student ID: Not-Vietnamese
+* Student Name: Tran Le Lam Khe
+* Student ID: 23bi14222
 * Student Group ID: Not-for-now
